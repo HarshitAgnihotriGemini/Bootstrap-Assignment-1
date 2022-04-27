@@ -1,0 +1,10 @@
+body{
+    background:linear-gradient(#B4FF9F ,#FFEBC1);
+}
+form label,input{
+    padding: 3px;
+    margin: 3px;
+}
+.full{
+    margin: 24px 110px;
+}
